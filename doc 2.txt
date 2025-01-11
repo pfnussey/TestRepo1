@@ -1,3 +1,4 @@
 ver 1.1
 Here is a change in the master branch after the issue1 fix
 Here is a second change in the master branch after the issue1 fix.
+This is the fix for issue 1
